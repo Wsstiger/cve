@@ -7,8 +7,11 @@ zhangMingMing
 https://www.sourcecodester.com/php/16097/yoga-class-registration-system-php-and-mysql-free-source-code.html
 
 ## Vulnerability file
-/php-ycrs/classes/Users.php?f=save
+/php-ycrs/admin/inquiries/view_inquiry.php
 
+## Vulnerability analysis
+
+<img width="1299" alt="image" src="https://github.com/user-attachments/assets/04f7a45b-c9e2-4d3b-8827-b99dbaf8cc3c">
 
 ## describe
 There is a vulnerability in the yoga registration system that allows unrestricted xss. An attacker can exploit this vulnerability to obtain cookies on the target system without authorization.
